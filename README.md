@@ -1,6 +1,23 @@
-# Analise_de_Dados_DataHackers-2022
- O projeto aplica habilidades práticas em Python, utilizando bibliotecas como Pandas, Numpy e Scipy no Jupyter Notebook. Visualização de dados com matplotlib, seaborn, plotly e Looker
+# 📝Analise da Pesquisa State of Data Brazil 2022
 
+A Pesquisa State of Data Brazil foi lançada em 2022! Se você ainda não conhece essa iniciativa ela funciona assim:Todos os anos a comunidade Data Hackers com o apoio da consultoria global Bain & Company, faz um mapeamento completo do mercado de trabalho na área de dados no Brasil, coletando informações a respeito dos maiores desafios dos profissionais, senioridade, salário, tendências de tecnologias e ferramentas, perrengues na carreira e muito mais. Depois que a pesquisa é realizada, a Data Hackers elabora um relatório com um panorama da área de dados no Brasil, os dados estão em anonimizados para que o publico tenha vizibilidade para poder explorar.
+
+O projeto que eu elaborei aplica habilidades práticas em Python, utilizando bibliotecas como Pandas, Numpy e Scipy no Jupyter Notebook. Visualização de dados com matplotlib, seaborn, plotly e Looker
+
+### 💻 Tecnologias Utilizadas
+**Python:** Linguagem de programação
+
+Bibliotecas:
+**pandas:** Manipulação e análise de dados tabulares, organizando-os em estruturas semelhantes a planilhas (DataFrames) para facilitar operações como leitura, limpeza, transformação, agregação e visualização.
+**numpy:** Computação numérica de alta performance, fornecendo estruturas de dados eficientes (arrays N-dimensionais) e uma vasta coleção de funções matemáticas para operações com esses arrays.
+**matplotlib:** Criação de visualizações estáticas, animadas e interativas em 2D em uma ampla variedade de formatos gráficos, permitindo a representação de dados de forma personalizável.
+**seaborn:** Criação de gráficos estatísticos atraentes e informativos com sintaxe concisa, ideal para exploração e comunicação de dados.
+**plotly:** criação de gráficos interativos e dinâmicos que podem ser visualizados em navegadores web, permitindo zoom, pan, hover e outras interações.
+**scipy:** Funções científicas e engenharia, oferecendo módulos especializados para otimização, integração, interpolação, álgebra linear, processamento de sinais, estatística e muito mais.
+
+**sqlite:** Sistema de gerenciamento de banco de dados relacional (SGBDR) embarcado, leve, sem servidor e de código aberto.
+
+**Jupyter Notebook:** ambiente de computação interativa baseado na web que permite criar e compartilhar documentos que contêm código executável, visualizações, texto explicativo (Markdown) e equações.
 
 ### Gênero, Etnia e Inclusão no Mercado de Dados Brasileiro: Um Olhar Crítico sobre a Pesquisa Data Hackers 2022
 
