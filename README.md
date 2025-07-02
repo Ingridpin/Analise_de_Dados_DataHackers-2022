@@ -69,6 +69,6 @@ Entretanto, ao aprofundar a análise, a correlação entre escolaridade, etnia e
 - [Veja a regressão linear no Google Colab](https://colab.research.google.com/drive/1XTjtiKl2flnyCxEDzqIz_EjfVWA7pe7u)
 
 ### :star2: Bonus
-
+- [Veja a análise de dados em BI no Looker](https://lookerstudio.google.com/reporting/641ed606-0407-4941-9ca5-22dbea592f7d/page/ZHPMF/edit)
 
 > Desenvolvido por Ingrid Pinheiro
