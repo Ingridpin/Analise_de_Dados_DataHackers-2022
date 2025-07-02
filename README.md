@@ -17,7 +17,7 @@ Bibliotecas:
 
   - **`SQLite`** Sistema de gerenciamento de banco de dados relacional (SGBDR) embarcado, leve, sem servidor e de código aberto.
 
-  - **`Jupyter Notebook`** ambiente de computação interativa baseado na web que permite criar e compartilhar documentos que contêm código executável, visualizações, texto explicativo (Markdown) e equações.
+  - **`Jupyter Notebook`** Ambiente de computação interativa baseado na web que permite criar e compartilhar documentos que contêm código executável, visualizações, texto explicativo (Markdown) e equações.
 
 ### Gênero, Etnia e Inclusão no Mercado de Dados Brasileiro: Um Olhar Crítico sobre a Pesquisa Data Hackers 2022
 
