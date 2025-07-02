@@ -33,7 +33,6 @@ Este projeto consolidou e aprimorou um conjunto fundamental de competências em 
 * **Visualização de Dados:** Proficiência na criação de gráficos informativos e interativos usando **Matplotlib, Seaborn e Plotly**, além da consolidação de *insights* em dashboards no **Looker**.
 * **Programação em Python:** Sólida base em Python para análise de dados, com domínio das bibliotecas **Pandas, NumPy e SciPy** no ambiente **Jupyter Notebook**.
 * **Pensamento Analítico:** Habilidade em interpretar dados e comunicar conclusões de forma eficaz, transformando informações brutas em *insights* acionáveis.
-```
 
 ### :chart_with_upwards_trend: Panorama Demográfico e Remuneratório do Profissional de Dados no Brasil (Data Hackers 2022)
 
