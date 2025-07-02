@@ -20,7 +20,6 @@ Bibliotecas:
  
   - **`Looker`** Plataforma de Business Intelligence (BI) e análise de dados baseada em nuvem que permite às empresas explorar, analisar e visualizar dados em tempo real para tomar decisões de negócios informadas, utilizando uma camada semântica robusta (LookML) para modelagem de dados consistente.
 
-Claro\! Vou passar a **Opção 1** (a mais detalhada e formal) com a formatação Markdown já aplicada, pronta para você copiar e colar no seu `README.md`.
 
 ### **:hammer_and_wrench: Habilidades Desenvolvidas** 
 Este projeto consolidou e aprimorou um conjunto fundamental de competências em análise e tratamento de dados:
