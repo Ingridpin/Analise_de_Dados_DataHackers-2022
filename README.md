@@ -1,4 +1,4 @@
-# 📝Analise da Pesquisa State of Data Brazil 2022
+# :mag_right:Analise da Pesquisa State of Data Brazil 2022
 
 A Pesquisa State of Data Brazil foi lançada em 2022! Se você ainda não conhece essa iniciativa ela funciona assim:Todos os anos a comunidade Data Hackers com o apoio da consultoria global Bain & Company, faz um mapeamento completo do mercado de trabalho na área de dados no Brasil, coletando informações a respeito dos maiores desafios dos profissionais, senioridade, salário, tendências de tecnologias e ferramentas, perrengues na carreira e muito mais. Depois que a pesquisa é realizada, a Data Hackers elabora um relatório com um panorama da área de dados no Brasil, os dados estão em anonimizados para que o publico tenha vizibilidade para poder explorar.
 
