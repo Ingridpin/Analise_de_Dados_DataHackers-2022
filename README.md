@@ -22,17 +22,40 @@ Bibliotecas:
 
 Claro\! Vou passar a **Opção 1** (a mais detalhada e formal) com a formatação Markdown já aplicada, pronta para você copiar e colar no seu `README.md`.
 
-### **:hammer_and_wrench:Habilidades Chave Desenvolvidas**
-
+### **:hammer_and_wrench: Habilidades Desenvolvidas** 
 Este projeto consolidou e aprimorou um conjunto fundamental de competências em análise e tratamento de dados:
 
-* **Preparação e Qualidade de Dados:** Domínio em técnicas de limpeza de dados, incluindo tratamento de valores faltantes e detecção/correção de *outliers* para garantir a integridade dos dados.
-* **Análise Exploratória de Dados (EDA):** Habilidade em realizar análises estatísticas descritivas, filtrar, segmentar, agrupar e agregar dados para identificar padrões e extrair *insights*.
-* **Modelagem e Transformação de Dados:** Capacidade de criar novas *features* (variáveis derivadas) e reestruturar dados para análises mais aprofundadas.
-* **Gerenciamento e Integração de Dados:** Experiência em conectar e consultar bancos de dados **SQLite**, além de integrar informações de múltiplas fontes para enriquecer o conjunto de dados.
-* **Visualização de Dados:** Proficiência na criação de gráficos informativos e interativos usando **Matplotlib, Seaborn e Plotly**, além da consolidação de *insights* em dashboards no **Looker**.
-* **Programação em Python:** Sólida base em Python para análise de dados, com domínio das bibliotecas **Pandas, NumPy e SciPy** no ambiente **Jupyter Notebook**.
-* **Pensamento Analítico:** Habilidade em interpretar dados e comunicar conclusões de forma eficaz, transformando informações brutas em *insights* acionáveis.
+1.  **Manipulação e Limpeza de Dados (Data Wrangling / Data Cleansing):**
+    * **Tratamento de Valores Faltantes:** Habilidade crucial para garantir a qualidade e integridade dos dados antes da análise ou do carregamento em *pipelines*.
+    * **Detecção e Correção de Outliers:** Capacidade de identificar e mitigar o impacto de dados anômalos que podem distorcer análises e modelos.
+
+2.  **Engenharia de Features (Feature Engineering):**
+    * **Criação de Novas Colunas Derivadas:** Transformar dados brutos em variáveis mais significativas para análise e modelos.
+    * **One-Hot Encoding:** Preparar dados categóricos para uso em modelos ou análises que exigem formatos numéricos/binários.
+
+3.  **Análise Exploratória de Dados (EDA):**
+    * **Estatística Descritiva:** Capacidade de resumir e entender as características principais dos dados.
+    * **Agrupamento e Agregação:** Habilidade de sumarizar dados por categorias e extrair *insights* consolidados.
+    * **Cálculo de Correlações:** Identificar relacionamentos entre variáveis.
+
+4.  **Integração e Consulta de Banco de Dados (SQL/SQLite):**
+    * **Conexão com Banco de Dados:** Capacidade de estabelecer conexão com fontes de dados.
+    * **Consultas SQL:** Habilidade de extrair dados usando SQL, um conhecimento fundamental.
+    * **Agregação de Dados Externos:** Unir informações de diferentes fontes para enriquecer o conjunto de dados, simulando um pequeno *pipeline* de ETL.
+
+5.  **Visualização de Dados (Data Visualization):**
+    * **Uso de Múltiplas Bibliotecas:** Versatilidade com **Matplotlib, Seaborn e Plotly** para diferentes tipos de visualização (estáticos vs. interativos).
+    * **Criação de Gráficos Essenciais:** Capacidade de representar dados visualmente para comunicar *insights* de forma eficaz.
+    * **Criação de Dashboards:** Habilidade de consolidar e apresentar informações-chave de forma interativa e acionável com **Looker** (ou outra ferramenta de BI).
+
+6.  **Programação em Python:**
+    * **Manipulação de DataFrames:** Expertise na principal ferramenta para dados em Python (**Pandas**).
+    * **Lógica de Programação e Funções:** Capacidade de escrever código organizado e reutilizável para transformações de dados.
+
+7.  **Pensamento Analítico e Resolução de Problemas:**
+    * **Interpretação de Dados:** Extrair significado dos números e tendências.
+    * **Abordagem Metodológica:** Seguir um processo estruturado de análise de dados.
+    * **Documentação:** Organizar o processo de análise de forma compreensível e reproduzível em um **Jupyter Notebook**.
 
 ### :chart_with_upwards_trend: Panorama Demográfico e Remuneratório do Profissional de Dados no Brasil (Data Hackers 2022)
 
