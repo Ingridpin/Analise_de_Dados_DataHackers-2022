@@ -1,4 +1,4 @@
-# :mag_right:Analise da Pesquisa State of Data Brazil 2022
+# :mag_right: Analise da Pesquisa State of Data Brazil 2022
 
 A Pesquisa State of Data Brazil foi lançada em 2022! Se você ainda não conhece essa iniciativa ela funciona assim:Todos os anos a comunidade Data Hackers com o apoio da consultoria global Bain & Company, faz um mapeamento completo do mercado de trabalho na área de dados no Brasil, coletando informações a respeito dos maiores desafios dos profissionais, senioridade, salário, tendências de tecnologias e ferramentas, perrengues na carreira e muito mais. Depois que a pesquisa é realizada, a Data Hackers elabora um relatório com um panorama da área de dados no Brasil, os dados estão em anonimizados para que o publico tenha vizibilidade para poder explorar.
 
@@ -21,7 +21,7 @@ Bibliotecas:
  
   - **`Looker`** Plataforma de Business Intelligence (BI) e análise de dados baseada em nuvem que permite às empresas explorar, analisar e visualizar dados em tempo real para tomar decisões de negócios informadas, utilizando uma camada semântica robusta (LookML) para modelagem de dados consistente.
 
-### Gênero, Etnia e Inclusão no Mercado de Dados Brasileiro: Um Olhar Crítico sobre a Pesquisa Data Hackers 2022
+### :chart_with_upwards_trend: Panorama Demográfico e Remuneratório do Profissional de Dados no Brasil (Data Hackers 2022)
 
 A pesquisa de 2022 da Comunidade Data Hackers, que contou com a participação de 4.271 profissionais, revela um cenário demográfico ainda desequilibrado. Observamos uma participação **majoritariamente masculina**, com 74,8% dos respondentes, em contraste com 24,7% do gênero feminino e apenas 0,5% de não declarados. **Quanto à etnia, a predominância é clara:** a maioria dos respondentes (2.744 indivíduos) se autodeclarou branca.
 
