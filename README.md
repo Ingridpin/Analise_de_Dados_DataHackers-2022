@@ -64,5 +64,10 @@ A pesquisa de 2022 da Comunidade Data Hackers, que contou com a participação d
 
 Entretanto, ao aprofundar a análise, a correlação entre escolaridade, etnia e senioridade em relação à média salarial expõe disparidades significativas. Estes dados sublinham a persistência de lacunas salariais e de oportunidades que afetam desproporcionalmente certos gêneros e etnias, apontando para a necessidade de mais ações voltadas à equidade e inclusão no setor.
 
+- [Veja a análise de dados no Google Colab](https://colab.research.google.com/drive/1PL-9NyJ_Msrctx_GPPtfXbiSuvnokE7O)
+- [Veja a regressão linear no Google Colab](https://colab.research.google.com/drive/1XTjtiKl2flnyCxEDzqIz_EjfVWA7pe7u)
+
 ### :star2: Bonus
+
+
 > Desenvolvido por Ingrid Pinheiro
