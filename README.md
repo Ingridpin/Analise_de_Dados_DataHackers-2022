@@ -4,7 +4,13 @@ A Pesquisa State of Data Brazil foi lançada em 2022! Se você ainda não conhec
 
 
 ### 💻 Tecnologias Utilizadas
-- **`Python`** Linguagem de programação
+  - **`SQLite`** Sistema de gerenciamento de banco de dados relacional (SGBDR) embarcado, leve, sem servidor e de código aberto.
+
+  - **`Jupyter Notebook`** Ambiente de computação interativa baseado na web que permite criar e compartilhar documentos que contêm código executável, visualizações, texto explicativo (Markdown) e equações.
+ 
+  - **`Looker`** Plataforma de Business Intelligence (BI) e análise de dados baseada em nuvem que permite às empresas explorar, analisar e visualizar dados em tempo real para tomar decisões de negócios informadas, utilizando uma camada semântica robusta (LookML) para modelagem de dados consistente.
+  
+  - **`Python`** Linguagem de programação
 
 Bibliotecas:
   - **`Pandas`** Manipulação e análise de dados tabulares, organizando-os em estruturas semelhantes a planilhas (DataFrames) para facilitar operações como leitura, limpeza, transformação, agregação e visualização.
@@ -14,11 +20,6 @@ Bibliotecas:
   - **`Plotly`** criação de gráficos interativos e dinâmicos que podem ser visualizados em navegadores web, permitindo zoom, pan, hover e outras interações.
   - **`Scipy`** Funções científicas e engenharia, oferecendo módulos especializados para otimização, integração, interpolação, álgebra linear, processamento de sinais, estatística e muito mais.
 
-  - **`SQLite`** Sistema de gerenciamento de banco de dados relacional (SGBDR) embarcado, leve, sem servidor e de código aberto.
-
-  - **`Jupyter Notebook`** Ambiente de computação interativa baseado na web que permite criar e compartilhar documentos que contêm código executável, visualizações, texto explicativo (Markdown) e equações.
- 
-  - **`Looker`** Plataforma de Business Intelligence (BI) e análise de dados baseada em nuvem que permite às empresas explorar, analisar e visualizar dados em tempo real para tomar decisões de negócios informadas, utilizando uma camada semântica robusta (LookML) para modelagem de dados consistente.
 
 
 ### **:hammer_and_wrench: Habilidades Desenvolvidas** 
