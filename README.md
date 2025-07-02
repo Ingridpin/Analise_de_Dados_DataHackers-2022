@@ -8,16 +8,16 @@ O projeto que eu elaborei aplica habilidades práticas em Python, utilizando bib
 **Python:** Linguagem de programação
 
 Bibliotecas:
-  - **`pandas:`** Manipulação e análise de dados tabulares, organizando-os em estruturas semelhantes a planilhas (DataFrames) para facilitar operações como leitura, limpeza, transformação, agregação e visualização.
-  - **`numpy:`** Computação numérica de alta performance, fornecendo estruturas de dados eficientes (arrays N-dimensionais) e uma vasta coleção de funções matemáticas para operações com esses arrays.
-  - **`matplotlib:`** Criação de visualizações estáticas, animadas e interativas em 2D em uma ampla variedade de formatos gráficos, permitindo a representação de dados de forma personalizável.
-  - **`seaborn:`** Criação de gráficos estatísticos atraentes e informativos com sintaxe concisa, ideal para exploração e comunicação de dados.
-  - **`plotly:`** criação de gráficos interativos e dinâmicos que podem ser visualizados em navegadores web, permitindo zoom, pan, hover e outras interações.
-  - **`scipy:`** Funções científicas e engenharia, oferecendo módulos especializados para otimização, integração, interpolação, álgebra linear, processamento de sinais, estatística e muito mais.
+  - **`Pandas`** Manipulação e análise de dados tabulares, organizando-os em estruturas semelhantes a planilhas (DataFrames) para facilitar operações como leitura, limpeza, transformação, agregação e visualização.
+  - **`Numpy`** Computação numérica de alta performance, fornecendo estruturas de dados eficientes (arrays N-dimensionais) e uma vasta coleção de funções matemáticas para operações com esses arrays.
+  - **`Matplotlib`** Criação de visualizações estáticas, animadas e interativas em 2D em uma ampla variedade de formatos gráficos, permitindo a representação de dados de forma personalizável.
+  - **`Seaborn`** Criação de gráficos estatísticos atraentes e informativos com sintaxe concisa, ideal para exploração e comunicação de dados.
+  - **`Plotly`** criação de gráficos interativos e dinâmicos que podem ser visualizados em navegadores web, permitindo zoom, pan, hover e outras interações.
+  - **`Scipy`** Funções científicas e engenharia, oferecendo módulos especializados para otimização, integração, interpolação, álgebra linear, processamento de sinais, estatística e muito mais.
 
-  - **`SQLite:`** Sistema de gerenciamento de banco de dados relacional (SGBDR) embarcado, leve, sem servidor e de código aberto.
+  - **`SQLite`** Sistema de gerenciamento de banco de dados relacional (SGBDR) embarcado, leve, sem servidor e de código aberto.
 
-  - **`Jupyter Notebook:`** ambiente de computação interativa baseado na web que permite criar e compartilhar documentos que contêm código executável, visualizações, texto explicativo (Markdown) e equações.
+  - **`Jupyter Notebook`** ambiente de computação interativa baseado na web que permite criar e compartilhar documentos que contêm código executável, visualizações, texto explicativo (Markdown) e equações.
 
 ### Gênero, Etnia e Inclusão no Mercado de Dados Brasileiro: Um Olhar Crítico sobre a Pesquisa Data Hackers 2022
 
