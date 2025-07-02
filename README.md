@@ -2,7 +2,6 @@
 
 A Pesquisa State of Data Brazil foi lançada em 2022! Se você ainda não conhece essa iniciativa ela funciona assim:Todos os anos a comunidade Data Hackers com o apoio da consultoria global Bain & Company, faz um mapeamento completo do mercado de trabalho na área de dados no Brasil, coletando informações a respeito dos maiores desafios dos profissionais, senioridade, salário, tendências de tecnologias e ferramentas, perrengues na carreira e muito mais. Depois que a pesquisa é realizada, a Data Hackers elabora um relatório com um panorama da área de dados no Brasil, os dados estão em anonimizados para que o publico tenha vizibilidade para poder explorar.
 
-O projeto que eu elaborei aplica habilidades práticas em Python, utilizando bibliotecas como Pandas, Numpy e Scipy no Jupyter Notebook. Visualização de dados com matplotlib, seaborn, plotly e Looker
 
 ### 💻 Tecnologias Utilizadas
 - **`Python`** Linguagem de programação
