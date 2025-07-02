@@ -5,7 +5,7 @@ A Pesquisa State of Data Brazil foi lançada em 2022! Se você ainda não conhec
 O projeto que eu elaborei aplica habilidades práticas em Python, utilizando bibliotecas como Pandas, Numpy e Scipy no Jupyter Notebook. Visualização de dados com matplotlib, seaborn, plotly e Looker
 
 ### 💻 Tecnologias Utilizadas
-**Python:** Linguagem de programação
+- **`Python`** Linguagem de programação
 
 Bibliotecas:
   - **`Pandas`** Manipulação e análise de dados tabulares, organizando-os em estruturas semelhantes a planilhas (DataFrames) para facilitar operações como leitura, limpeza, transformação, agregação e visualização.
@@ -18,6 +18,8 @@ Bibliotecas:
   - **`SQLite`** Sistema de gerenciamento de banco de dados relacional (SGBDR) embarcado, leve, sem servidor e de código aberto.
 
   - **`Jupyter Notebook`** Ambiente de computação interativa baseado na web que permite criar e compartilhar documentos que contêm código executável, visualizações, texto explicativo (Markdown) e equações.
+ 
+  - **`Looker`** Plataforma de Business Intelligence (BI) e análise de dados baseada em nuvem que permite às empresas explorar, analisar e visualizar dados em tempo real para tomar decisões de negócios informadas, utilizando uma camada semântica robusta (LookML) para modelagem de dados consistente.
 
 ### Gênero, Etnia e Inclusão no Mercado de Dados Brasileiro: Um Olhar Crítico sobre a Pesquisa Data Hackers 2022
 
