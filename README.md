@@ -2,6 +2,7 @@
 
 A Pesquisa State of Data Brazil foi lançada em 2022! Se você ainda não conhece essa iniciativa ela funciona assim:Todos os anos a comunidade Data Hackers com o apoio da consultoria global Bain & Company, faz um mapeamento completo do mercado de trabalho na área de dados no Brasil, coletando informações a respeito dos maiores desafios dos profissionais, senioridade, salário, tendências de tecnologias e ferramentas, perrengues na carreira e muito mais. Depois que a pesquisa é realizada, a Data Hackers elabora um relatório com um panorama da área de dados no Brasil, os dados estão em anonimizados para que o publico tenha vizibilidade para poder explorar.
 
+---
 
 ### 💻 Tecnologias Utilizadas
   - **`SQLite`** Sistema de gerenciamento de banco de dados relacional (SGBDR) embarcado, leve, sem servidor e de código aberto.
@@ -20,7 +21,7 @@ Bibliotecas:
   - **`Plotly`** criação de gráficos interativos e dinâmicos que podem ser visualizados em navegadores web, permitindo zoom, pan, hover e outras interações.
   - **`Scipy`** Funções científicas e engenharia, oferecendo módulos especializados para otimização, integração, interpolação, álgebra linear, processamento de sinais, estatística e muito mais.
 
-
+---
 
 ### **:hammer_and_wrench: Habilidades Desenvolvidas** 
 Este projeto consolidou e aprimorou um conjunto fundamental de competências em análise e tratamento de dados:
@@ -57,6 +58,8 @@ Este projeto consolidou e aprimorou um conjunto fundamental de competências em 
     * **Abordagem Metodológica:** Seguir um processo estruturado de análise de dados.
     * **Documentação:** Organizar o processo de análise de forma compreensível e reproduzível em um **Jupyter Notebook**.
 
+---
+
 ### :chart_with_upwards_trend: Panorama Demográfico e Remuneratório do Profissional de Dados no Brasil (Data Hackers 2022)
 
 A pesquisa de 2022 da Comunidade Data Hackers, que contou com a participação de 4.271 profissionais, revela um cenário demográfico ainda desequilibrado. Observamos uma participação **majoritariamente masculina**, com 74,8% dos respondentes, em contraste com 24,7% do gênero feminino e apenas 0,5% de não declarados. **Quanto à etnia, a predominância é clara:** a maioria dos respondentes (2.744 indivíduos) se autodeclarou branca.
@@ -67,6 +70,8 @@ Entretanto, ao aprofundar a análise, a correlação entre escolaridade, etnia e
 
 - [Veja a análise de dados no Google Colab](https://colab.research.google.com/drive/1PL-9NyJ_Msrctx_GPPtfXbiSuvnokE7O)
 - [Veja a regressão linear no Google Colab](https://colab.research.google.com/drive/1XTjtiKl2flnyCxEDzqIz_EjfVWA7pe7u)
+
+---
 
 ### :star2: Bonus
 - [Veja a análise de dados em BI no Looker](https://lookerstudio.google.com/reporting/641ed606-0407-4941-9ca5-22dbea592f7d/page/ZHPMF/edit)
