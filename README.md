@@ -70,13 +70,7 @@ Entretanto, ao aprofundar a análise, a correlação entre escolaridade, etnia e
 
 ### :star2: Bonus
 - [Veja a análise de dados em BI no Looker](https://lookerstudio.google.com/reporting/641ed606-0407-4941-9ca5-22dbea592f7d/page/ZHPMF/edit)
-![image](https://github.com/user-attachments/assets/5471ca29-8659-4254-9813-1476954cab4c)
 
-
-![image](https://github.com/user-attachments/assets/99bffe39-80ef-4d09-9388-7c929fcec952)
-
-
-![image](https://github.com/user-attachments/assets/97201bcf-9012-4176-b55c-a5c692e77792)
 
 
 
